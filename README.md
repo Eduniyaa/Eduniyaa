@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduniya</h1>
 <h3 align="center">An Aspiring Software Engineer and A Passionate Programmer</h3>
-<img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=2p5fKof0&id=CF924697A5819350AA92CAB017105E0A120E7F88&thid=OIP.2p5fKof0W55S2EVhjbrihAHaFt&mediaurl=https%3a%2f%2fimage.shutterstock.com%2fz%2fstock-vector-a-young-woman-writes-code-on-the-computer-programmer-laptop-screen-with-script-female-programmer-1731157933.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.da9e5f2a87f45b9e52d845618dbae284%3frik%3diH8OEgpeEBewyg%26pid%3dImgRaw%26r%3d0&exph=1156&expw=1500&q=Coding+Animated+girls&simid=608029119217035192&FORM=IRPRST&ck=3174128D0DE5B10A4E8C307EFEE6A537&selectedIndex=6&itb=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduniyaa&label=Profile%20views&color=0e75b6&style=flat" alt="eduniyaa" /> </p>
 
