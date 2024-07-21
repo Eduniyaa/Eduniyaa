@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduniya</h1>
 <h3 align="center">An Aspiring Software Engineer and A Passionate Programmer</h3>
-<img src="https://th.bing.com/th/id/OIP.2p5fKof0W55S2EVhjbrihAHaFt?w=178&h=137&c=7&r=0&o=5&pid=1.7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduniyaa&label=Profile%20views&color=0e75b6&style=flat" alt="eduniyaa" /> </p>
 
