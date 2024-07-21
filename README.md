@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduniya</h1>
 <h3 align="center">An Aspiring Software Engineer and A Passionate Programmer</h3>
-<img src="file:///C:/Users/Emun%20Solutions/Downloads/giphy.gif">
+<img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduniyaa&label=Profile%20views&color=0e75b6&style=flat" alt="eduniyaa" /> </p>
 
